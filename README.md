@@ -8,10 +8,10 @@
 - React
 - Node.js
 - Git & GitHub
-- PHP
-- Visual Studio Code
+- PHP (OOP + conditional)
+- Laravel
+- SQL
+- GraphQL
 
 ## 💻 I'm currently working on:
 - Node.js
-- Laravel
-- SASS
